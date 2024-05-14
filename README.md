@@ -1,9 +1,17 @@
-This PDF file contains all the deliverables for the Intelligent Systems - Robotics & Automation 
-Final Project of Group 9 (Beltran, Escalicas, Jacinto, Maglalang, Naga)
+# Intelligent Systems - Robotics & Automation Final Project
 
-Fully functional prototype was presented live
+## Group 9 Members
+- Beltran
+- Escalicas
+- Jacinto
+- Maglalang
+- Naga
 
-Project Documentation
-Video Demonstration 
-Engineering Drawings
-Test and Experiments
+## Project Overview
+This repository contains all the deliverables for the Intelligent Systems - Robotics & Automation Final Project by Group 9. The fully functional prototype was presented live.
+
+## Deliverables
+- [Project Documentation](https://docs.google.com/document/d/1S_d04hjjn0CKEjpcYK3bUfxS4Ib_8GCvhp98ja8v1CQ/edit)
+- [Video Demonstration](https://drive.google.com/drive/folders/11dSI1mwSVRSiU7uZPA7vKhVnSEfgWZ-b)
+- [Engineering Drawings](https://docs.google.com/document/d/1S_d04hjjn0CKEjpcYK3bUfxS4Ib_8GCvhp98ja8v1CQ/edit)
+- [Test and Experiments](https://docs.google.com/document/d/1S_d04hjjn0CKEjpcYK3bUfxS4Ib_8GCvhp98ja8v1CQ/edit)
